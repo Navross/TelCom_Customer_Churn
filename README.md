@@ -21,11 +21,12 @@ A machine learning project that predicts which SyriaTel customers are likely to 
 
 ```
 ├── data/
-│   └── syriatel_data.csv          
+│   └── syriatel_data.csv.csv          
 ├── notebooks/
 │   └── syriatel_churn_notebook.py        
-├── visualizations            
-├── presentation.pdf        
+├── visualizations  
+├── presentation.pptx          
+├── presentation.pdf - presentation in .pdf    
 └── README.md                      
 ```
 
