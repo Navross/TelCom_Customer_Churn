@@ -1,6 +1,7 @@
 # 📞 SyriaTel Customer Churn Prediction
 
-![SyriaTel Banner](https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=300&q=80)
+![Telecom Network](https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400&q=80)
+
 
 
 ## 🎯 Overview
