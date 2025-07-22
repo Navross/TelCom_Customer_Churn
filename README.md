@@ -1,8 +1,7 @@
 # 📞 SyriaTel Customer Churn Prediction
 
-![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![SyriaTel Banner](https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=300&q=80)
+
 
 ## 🎯 Overview
 
