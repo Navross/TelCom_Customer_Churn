@@ -74,8 +74,7 @@ A comprehensive machine learning solution that predicts customer churn for Syria
 │   └── syriatel_churn_analysis.ipynb      # Complete analysis pipeline
 
 ├── 📂 reports/
-│   └── presentation.ptx                   # Executive summary
-├── 📄 presentation.pdf                    # Alternative 
+│   └── presentation.pdf                   # Executive summary
 ├── 📄 .gitignore                          # This file
 └── 📄 README.md                           # This file
 ```
